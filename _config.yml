@@ -1,0 +1,6 @@
+title: "Análisis de Big Data en Manufactura"
+author: "Tu nombre"
+only_build_toc_files: true
+
+execute:
+  execute_notebooks: auto
